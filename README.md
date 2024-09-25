@@ -1,70 +1,39 @@
-# Getting Started with Create React App
+# BackEndCRS
+Check out Website :  [Online Car Rental System](https://crs-cdac-project.firebaseapp.com/).
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+### Use case Diagram
+![Use case Diagram](https://github.com/Online-Car-Rental-System-CDAC-Proj/CustomerCRS/assets/83832250/6c74be4e-7f28-4dda-9369-b574523a35e4)
 
-## Available Scripts
+### Entity Relationship Diagram
+![Entity Relationship Diagram](https://github.com/Online-Car-Rental-System-CDAC-Proj/CustomerCRS/assets/83832250/f0cdc42a-0aae-4088-9f50-401b0bc4de83)
 
-In the project directory, you can run:
 
-### `npm start`
+# Customer Side
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+### Data Flow Diagram:
+![image](https://github.com/Online-Car-Rental-System-CDAC-Proj/CustomerCRS/assets/83832250/94923a7a-92fd-4f50-9187-f6a702ba4db4)
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+### Home Page
+![image](https://github.com/Online-Car-Rental-System-CDAC-Proj/CustomerCRS/assets/83832250/4d3debf5-14b3-4d0b-b65c-5f0c63ba81fb)
 
-### `npm test`
+### Car Listing
+![image](https://github.com/Online-Car-Rental-System-CDAC-Proj/CustomerCRS/assets/83832250/09284158-ab8a-4e3f-9039-97bfe508f99b)
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+### Booking
+![image](https://github.com/Online-Car-Rental-System-CDAC-Proj/CustomerCRS/assets/83832250/a2e55b83-1d83-415a-94c7-bf175e7e26b6)
 
-### `npm run build`
+### Booking Details
+![image](https://github.com/Online-Car-Rental-System-CDAC-Proj/CustomerCRS/assets/83832250/baa71495-108f-43f9-9f2f-43abb0897af2)
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+# Admin Side
+### Admin Side Booking Listing
+![image](https://github.com/Online-Car-Rental-System-CDAC-Proj/CustomerCRS/assets/83832250/e8b2b68d-095c-453c-a1a6-6e3321a96671)
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+### Car Listing
+![image](https://github.com/Online-Car-Rental-System-CDAC-Proj/CustomerCRS/assets/83832250/15321736-d0f8-4f9e-a4b1-73e6bc480532)
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+### Refund
+![image](https://github.com/Online-Car-Rental-System-CDAC-Proj/CustomerCRS/assets/83832250/79413275-da11-40ac-8f98-d1678a011100)
 
-### `npm run eject`
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
